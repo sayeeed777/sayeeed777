@@ -1,21 +1,20 @@
 ## Sayeed
 
-I design and ship complete products: apps, websites, data pipelines and AI tools.
-Currently building **[OpenFurqan](https://github.com/OpenFurqanOrg)**, a calm, ad-free Quran app on Google Play and the web.
+I build apps and websites, from the first design to the release.
 
-### Projects
+### OpenFurqan
 
-| Project | What it is | Built with |
-|---|---|---|
-| **[OpenFurqan](https://openfurqan.com)** | A Quran app: Mushaf and verse reading, translations in 75 languages, tafsir, word roots, recitation and memorization. [Google Play](https://play.google.com/store/apps/details?id=com.openfurqan.app) · [Web](https://openfurqan.com) | Kotlin · Jetpack Compose · TypeScript · Next.js |
-| **OpenFurqan Data** | The pipeline that builds, checks and serves the app's Quran data | Python · SQLite · Cloudflare |
-| **Lecture-to-Reels bot** | A Telegram bot that turns a YouTube lecture into AI-picked reels, long clips, titles and thumbnails | Python · Telegram Bot API · FFmpeg · LLMs |
-| **[Haya Fashion](https://hayafashion.vercel.app)** | An online fashion store | React · Vite · TypeScript · Supabase |
-| **Legacy Sports** | An online sports store | Next.js · TypeScript · Tailwind · Supabase |
-| **OpenFurqan launch film** | Motion graphics made in code | TypeScript · Remotion |
+A calm, ad-free Quran app for reading, studying and memorizing, with translations in 75 languages.
 
-### Stack
+[Google Play](https://play.google.com/store/apps/details?id=com.openfurqan.app) · [openfurqan.com](https://openfurqan.com) · [Web source](https://github.com/OpenFurqanOrg/openfurqan-web) · [Android release notes](https://github.com/OpenFurqanOrg/openfurqan-android)
 
-TypeScript · Kotlin · Python · React · Next.js · Jetpack Compose · Supabase · SQLite · Tailwind · Cloudflare · Vercel
+### Online stores
+
+- **[Legacy Sports](https://legacysportsbd.com)**: sports gear, delivered across Bangladesh
+- **[Haya Fashion](https://hayafashion.vercel.app)**: a fashion store
+
+### Tools
+
+Kotlin · Jetpack Compose · TypeScript · React · Next.js · Python · Supabase
 
 [X](https://x.com/Sayeeed07) · contact@openfurqan.com
